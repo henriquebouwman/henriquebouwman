@@ -37,7 +37,5 @@ class HenriqueBouwman:
 
 ## Let's Connect
 
-Feel free to reach out if you want to talk about data, collaborate on projects, or just chat about the latest series you're watching!
-
 - **LinkedIn**: [henriquebouwman](https://www.linkedin.com/in/henriquebouwman/)
 - **Email**: henriquebouwmann@gmail.com
